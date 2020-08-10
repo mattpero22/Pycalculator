@@ -3,3 +3,5 @@
   - Clear button clears the screen
   - Delte button clears only the last character of the current entry
   
+8/10/2020
+  - Added arithmetic operation functions to add, subtract, multiply, and divide
