@@ -1,0 +1,5 @@
+8/7/2020
+  - Constructed the basic layout of the calculator with digits, basic arithmetic operations, clear button, delete button, and equal/enter button
+  - Clear button clears the screen
+  - Delte button clears only the last character of the current entry
+  
