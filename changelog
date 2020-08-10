@@ -5,3 +5,7 @@
   
 8/10/2020
   - Added arithmetic operation functions to add, subtract, multiply, and divide
+  - Added button for additional operations and when pressed allocated room and displays new functions
+  - Added functions for squaring, square root, arbitrary power
+  - Added decimal point button
+  - Added check to see if the input is a decimal or integer such that the operation can be performed on variables casted as the desired type (float or int)
